@@ -40,7 +40,7 @@ interests:
 
 education:
   - area: PhD - Economics
-    institution: Érudite - Université Gustave Eiffel
+    institution: Université Paris Dauphine
     icon: ""
     date_start: 2025-09-01
     date_end: 2028-08-31
