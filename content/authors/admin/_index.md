@@ -31,7 +31,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/MarinFerry
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/marinferry/
+    url: https://www.linkedin.com/in/marin-ferry/
 
 interests:
   - Development Economics
