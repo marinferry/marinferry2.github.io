@@ -1,5 +1,5 @@
 ---
-title: Research
+title: 
 type: page
 ---
 ## Peer-reviewed publications
