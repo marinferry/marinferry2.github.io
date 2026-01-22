@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Andrea Rouchon
+title: Marin Ferry
 
 # Full name (for SEO)
-first_name: Andrea
-last_name: Rouchon
+first_name: Marin 
+last_name: Ferry
 
 # Is this the primary user of the site?
 superuser: true
