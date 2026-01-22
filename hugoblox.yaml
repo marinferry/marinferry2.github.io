@@ -4,6 +4,3 @@ template:
   id: "academic-cv"
   name: "Academic CV"
 
-assets:
-  css:
-    - css/custom.css

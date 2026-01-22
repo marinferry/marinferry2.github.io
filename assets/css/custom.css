@@ -1,0 +1,20 @@
+/* =====================================================
+   Research page ONLY – safe academic styling
+   ===================================================== */
+
+.page-research {
+  text-align: left;
+}
+
+/* Page title only */
+.page-research > h1,
+.page-research .page-title {
+  font-size: 1.6rem;
+  white-space: nowrap;
+}
+
+/* Section titles */
+.page-research h2 {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
