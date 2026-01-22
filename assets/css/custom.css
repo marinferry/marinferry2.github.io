@@ -1,20 +1,36 @@
 /* =====================================================
-   Research page ONLY – safe academic styling
+   Research page – compact academic typography
    ===================================================== */
 
 .page-research {
   text-align: left;
+  font-size: 0.95rem; /* texte général plus compact */
+  line-height: 1.5;
 }
 
-/* Page title only */
+/* Page title */
 .page-research > h1,
 .page-research .page-title {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   white-space: nowrap;
 }
 
-/* Section titles */
+/* Section titles: "Peer-reviewed publications" */
 .page-research h2 {
-  font-size: 1.2rem;
-  margin-top: 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
+}
+
+/* Article titles (bold lines in list) */
+.page-research li strong {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/* Journal, co-authors, year */
+.page-research li em,
+.page-research li {
+  font-size: 0.9rem;
 }
