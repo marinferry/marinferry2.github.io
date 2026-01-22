@@ -29,18 +29,15 @@ profiles:
     url: 'mailto:marin.ferry@univ-eiffel.fr'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/AndreaRouchon
+    url: https://github.com/MarinFerry
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/andrearouchon/
+    url: https://www.linkedin.com/in/marinferry/
 
 interests:
   - Development Economics
   - Political Economy
   - Applied microeconomics
   - Econometrics
-  - China
-  - Corruption
-  - Investment
 
 education:
   - area: PhD - Economics
