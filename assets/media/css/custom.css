@@ -1,0 +1,17 @@
+/* Research page: left aligned, academic style */
+
+.page-research {
+  text-align: left;
+}
+
+/* Page title */
+.page-research h1 {
+  font-size: 1.6rem;
+  white-space: nowrap;
+}
+
+/* Section titles */
+.page-research h2 {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
