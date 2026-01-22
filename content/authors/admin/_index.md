@@ -36,7 +36,6 @@ profiles:
 interests:
   - Development Economics
   - Political Economy
-  - Applied microeconomics
   - Econometrics
 
 education:
