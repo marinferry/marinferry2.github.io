@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: Assistant Professor in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -26,7 +26,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:andrea.rouchon2@univ-eiffel.fr'
+    url: 'mailto:marin.ferry@univ-eiffel.fr'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/AndreaRouchon
