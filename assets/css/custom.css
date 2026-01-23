@@ -4,57 +4,52 @@
 
 .page-research {
   text-align: left;
-  font-size: 0.95rem; /* texte général plus compact */
+  font-size: 0.95rem;
   line-height: 1.5;
 }
 
-/* Page title */
-.page-research > h1,
-.page-research .page-title {
-  font-size: 1.5rem;
-  white-space: nowrap;
+/* =====================================================
+   Override Tailwind Typography (THE KEY PART)
+   ===================================================== */
+
+/* Remove narrow prose width */
+.max-w-prose {
+  max-width: 1100px !important;
 }
 
-/* Section titles: "Peer-reviewed publications" */
-.page-research h2 {
-  font-size: 1.1rem;
+/* Enlarge article column */
+.prose {
+  max-width: 1100px !important;
+}
+
+/* Titles */
+.prose h1 {
+  font-size: 1.6rem !important;
+}
+
+.prose h2 {
+  font-size: 1.1rem !important;
   font-weight: 600;
-  margin-top: 1.8rem;
+  margin-top: 2rem;
   margin-bottom: 0.8rem;
 }
 
-/* Article titles (bold lines in list) */
-.page-research li strong {
+/* Publications list */
+.prose ul {
+  padding-left: 1.2rem;
+}
+
+.prose li {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  margin-bottom: 1rem;
+}
+
+.prose li strong {
   font-size: 1rem;
   font-weight: 600;
 }
 
-/* Journal, co-authors, year */
-.page-research li em,
-.page-research li {
+.prose li em {
   font-size: 0.9rem;
-}
-
-/* Main content container */
-.page-research .container,
-.page-research .content {
-  max-width: 1100px;   /* ajuste: 1000–1200 selon goût */
-}
-
-/* Keep it centered */
-.page-research .container {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.page-research .article-container {
-  max-width: 1100px !important;
-}
-
-.page-research .page-body {
-  max-width: 1100px !important;
-}
-
-.page-research .container-xl {
-  max-width: 1100px !important;
 }
