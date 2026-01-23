@@ -16,6 +16,8 @@ type: page
 - **Giving Birth in Times of Austerity: Fiscal Consolidation and Infant Mortality in Sub-Saharan Africa**  
   with Hélène Ehrhart and Lisa Chauvet
 
+---
+
 ## Peer-reviewed publications
 
 - **[Mitigating climate vulnerability: the crop diversification effect](https://www.sciencedirect.com/science/article/pii/S0921800925000515)**  
