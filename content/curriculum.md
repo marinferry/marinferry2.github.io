@@ -1,5 +1,5 @@
 ---
-title: 'Curriculum Vitae'
+title: 'Resume'
 date: 2023-10-24
 type: landing
 
@@ -16,5 +16,12 @@ sections:
     design:
       date_format: 'January 2006'
       is_education_first: true
-  
+  - block: resume-positions
+    content:
+      title: Positions
+      username: admin
+    design:
+      date_format: 'January 2006'
+      is_education_first: true
+
 ---
