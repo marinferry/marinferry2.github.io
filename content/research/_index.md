@@ -2,6 +2,7 @@
 title: ''
 type: page
 ---
+
 ## Peer-reviewed publications
 
 - **[Mitigating climate vulnerability: the crop diversification effect](https://www.sciencedirect.com/science/article/pii/S0921800925000515)**  
@@ -33,4 +34,71 @@ type: page
 
 - **[Africa: out of debt into fiscal space? Dynamic fiscal impact of the debt relief initiatives on African heavily indebted poor countries](https://www.sciencedirect.com/science/article/abs/pii/S2110701715000293)**  
   *International Economics*, vol. 144, pp. 29–52 (2015)  
-  with Danny Cassimon, Marc Raffinot, Björn Van Campenhout
+  with Danny Cassimon, Marc Raffinot, Björn Van Campenhout  
+
+---
+
+## Publications in French Peer-Reviewed Journals
+
+- **Quel bilan tirer des initiatives d'annulation de la dette des pays pauvres très endettés?**  
+  *Revue d’Économie Financière*, vol. 141, pp. 225–239 (2021)  
+
+- **Réductions de dette, aléa moral et ré-endettement des pays à faible revenu**  
+  *Techniques Financières et Développement* (2016) - (in French)  
+  with Marc Raffinot (LeDA, DIAL)
+
+---
+
+## Book and book chapters
+
+- **Emerging powers, governance and development**  
+  in *Handbook on Governance and Development*, edited by Wil Hout and Jane Hutchison. Edward Elgar Publishing, 2022  
+  with Haley J. Swedlund
+
+- **La montée des émissions obligataires internationales des pays africains à faible revenu: une surprise rationnelle?**  
+  in *Finance, Banque, Microfinance: où va la richesse créée?* Chicot Eboué (eds.), 1ère édition 2021, Larcier, pp. 327–350 (in French)  
+  with Marc Raffinot and Gregory Donnat
+
+- **La dette des pays en développement**  
+  *La Découverte, Repères n° 136*, Juillet 2019 - (in French)  
+  with Marc Raffinot
+
+---
+
+## Other Publications / Media Coverage
+
+- **Le surendettement nouveau et les pays africains "frontière" face au mur de la dette**  
+  *Document de Travail DIAL n°2024-03* (in French)  
+  with Marc Raffinot (LeDA, DIAL) and Babacar Sene (UCAD)
+
+- **L'efficacité de l'aide: quelles évolutions de la littérature depuis deux décennies?**  
+  *FERDI Document de travail P329*, Juin 2023 - (in French)  
+  with Lisa Chauvet (Paris 1, CES)
+
+- **La soutenabilité des dettes en Afrique: état des lieux et enjeux futurs**  
+  *MacroDev*, Mai 2021, N°34, AFD - (in French)  
+  with Benoît Jonveaux (AFD) and Maxime Terrieux (AFD)
+
+- **The Debt Distress of African States: a sense of Déjà Vu**  
+  *Dialogue, N°61, DIAL* (2021) - (in French)  
+  with Marc Raffinot (LeDA, DIAL)
+
+- **Le financement du développement à l'épreuve du Covid 19**  
+  *L'Economie Politique n°90 (Alternatives économiques)* (2021) - (in French)  
+  with Marc Raffinot (LeDA, DIAL) and Babacar Sene (UCAD)
+
+- **Dette des Pays en Développement: La Covid-19 change la donne**  
+  *The Conversation*, Septembre 2020 (2020) - (in French)  
+  with Marc Raffinot (LeDA, DIAL) and Babacar Sene (UCAD)
+
+- **La dette des Etats d'Afrique subsaharienne à l'épreuve du Covid-19**  
+  *The Conversation*, April 2020 (2020) - (in French)  
+  with Marc Raffinot (LeDA, DIAL) and Babacar Sene (UCAD)
+
+- **Développement économique et social - Aide publique au développement**  
+  *Encyclopédie Universalis* (2014) - (in French)  
+  with Lisa Chauvet (Paris 1, CES)
+
+- **The Impact of the Debt Relief Initiatives**  
+  *Dialogue, N°37, DIAL* (2013) - (in French)  
+  with Marc Raffinot (LeDA, DIAL)
