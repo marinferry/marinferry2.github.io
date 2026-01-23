@@ -36,7 +36,7 @@ type: page
 
 - **[Volatility widens inequality. Could aid and remittances help?](https://link.springer.com/article/10.1007/s10290-018-0331-7)**  
   *Review of World Economics*, vol. 155, pp. 71–104 (2019)  
-  with Lisa Chauvet, Sylviane Guillaumont Jeannenet, Patrick Guillaumont, Jules Sampawe nde-Tapsoba, Laurent Wagner
+  with Lisa Chauvet, Sylviane Guillaumont Jeannenet, Patrick Guillaumont, Jules Sampawende-Tapsoba, Laurent Wagner
 
 - **[Curse or blessing? Has the impact of debt relief lived up to expectations? A review of the effects of the multilateral debt relief initiatives for low-income countries](https://www.tandfonline.com/doi/abs/10.1080/00220388.2018.1499895?journalCode=fjds20)**  
   *Journal of Development Studies*, vol. 55(9), pp. 1867–1891 (2019)  
