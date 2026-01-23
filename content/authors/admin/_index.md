@@ -95,35 +95,7 @@ work:
       - Level: first-year undergraduate students
       - Coordinator: Isabelle Hirtzlin
 
-    work:
-  - position: Teaching Assistant
-    company_name: Université Gustave Eiffel
-    company_url: 'https://www.univ-gustave-eiffel.fr/'
-    icon: ''
-    date_start: 2025-09-01
-    date_end: 2026-05-31
-    summary: |
-      - Course: Growth
-      - Level: third-year undergraduate students
-      - Coordinator: Manon Domingues Dos Santos
-  - position: Research Intern
-    company_name: Érudite
-    company_url: 'https://erudite.univ-paris-est.fr/'
-    icon: ''
-    date_start: 2024-03-01
-    date_end: 2025-03-01
-    summary: |
-      - Supervisor: Marin Ferry
-  - position: Teaching Assistant
-    company_name: Université Paris 1 Panthéon-Sorbonne
-    company_url: 'https://www.pantheonsorbonne.fr/'
-    icon: ''
-    date_start: 2024-01-01
-    date_end: 2024-05-31
-    summary: |
-      - Course: Social Protection
-      - Level: first-year undergraduate students
-      - Coordinator: Isabelle Hirtzlin  
+    
 
 
 ---

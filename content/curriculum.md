@@ -16,12 +16,5 @@ sections:
     design:
       date_format: 'January 2006'
       is_education_first: true
-  - block: resume-positions
-    content:
-      title: Positions
-      username: admin
-    design:
-      date_format: 'January 2006'
-      is_education_first: true
 
 ---
