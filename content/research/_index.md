@@ -5,7 +5,7 @@ type: page
 ## Work in Progress
 
 - **[Foreign Aid and Power Play: Political Cycles in World Bank's Procurement Allocation](https://www.aiddata.org/publications/foreign-aid-and-power-play-political-cycles-in-world-banks-procurement-allocation)**  
-  with Antoine Boucher (LeDA, DIAL) and Lisa Chauvet (Paris 1, CES) – Submitted (AidData Working Paper 131)
+  with Antoine Boucher (LeDA, DIAL) and Lisa Chauvet (Paris 1, CES) – Submitted
 
 - **Out of Sight, Out of Mind? Spatial Divide and Tax Attitudes in Sub-Saharan Africa**  
   with Lisa Chauvet (Paris 1, CES), Siyavash Eslami (IRD, DIAL), Laure Pasquier-Doumer (IRD, DIAL) – Submitted
