@@ -115,3 +115,9 @@ type: page
 - **The Impact of the Debt Relief Initiatives**  
   *Dialogue, N°37, DIAL* (2013) - (in French)  
   with Marc Raffinot (LeDA, DIAL)
+
+---
+
+## Refereeing
+
+World Development, Public Choice, Journal of Development Studies, Journal of African Economies, Revue d'Economie du Développement, Revue Economique, Revue d'Economie Politique, International Economics, European Journal of Comparative Economics, European Journal of Development Research, Journal of Public Finance and Public Choic, Revue Internationale des Etudes du Développement, International Journal of Financial Studies, PLOS ONE, Journal of Poverty, Journal of Economics and International Finance
