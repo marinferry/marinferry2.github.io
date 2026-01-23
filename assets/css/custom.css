@@ -53,3 +53,8 @@
 .prose li em {
   font-size: 0.9rem;
 }
+
+/* Extra spacing between section title and first publication */
+.prose h2 + ul {
+  margin-top: 1.8rem;
+}
