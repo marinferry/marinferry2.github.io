@@ -35,6 +35,8 @@ profiles:
 
 interests:
   - Development Economics
+  - Financing for Development
+  - Sovereign Debt
   - Political Economy
   - Econometrics
 
@@ -42,39 +44,26 @@ education:
   - area: PhD - Economics
     institution: Université Paris Dauphine
     icon: ""
-    date_start: 2025-09-01
-    date_end: 2028-08-31
+    date_start: 2013
+    date_end: 2017
     summary: |
-      - Thesis: Corruption and Economic Distortions: The Example of China 
-      - Supervisors: Mélika Ben Salem • Marin Ferry
-  - area: MSc - Development Economics and International Project Management
-    institution: Université Gustave Eiffel
+      - Thesis: Four Essays in Financing for Development
+      - Supervisors: Marc Raffinot • Lisa Chauvet
+  - area: MSc - Economic Diagnosis
+    institution: Université Paris Dauphine
     icon: ""
-    date_start: 2024-09-01
-    date_end: 2025-05-31
-    summary: |
-      - Track: Impact Evaluation
-      - Thesis: Public Debt and Firm Performance: A Love-Hate Relationship?
-      - Field Mission: "The LeadHer Initiative: Empowering Women by expanding their job opportunities", in partnership with The High Atlas Foundation
-      - Digital Methods and Data Sprint 2025, University of Amsterdam
-      - Key courses: Applied Econometrics • Impact Evaluation • Informal Sector
-  - area: MSc - Development Economics
-    institution: Université Paris 1 Panthéon-Sorbonne
+    date_start: 2012
+    date_end: 2013
+  - area: MSc - Public Policies and Development
+    institution: Paris School of Economics
     icon: ""
-    date_start: 2022-09-01
-    date_end: 2024-05-31
-    summary: |
-      - Track: Research
-      - Thesis: Debt and Growth: Evidence from Firm-Level Data
-      - Thesis: The Role of Religious Organizations in Aid Distribution
-      - Key courses: Econometrics and Impact Evaluation • Development Theory (Microeconomics • Macroeconomics and Historical Perspective) • Institutions, Governance and Development •Firm Performance and Development • Foreign Aid, Debt and Development
+    date_start: 2011
+    date_end: 2012
   - area: BSc - Economics
-    institution: Université Paris 1 Panthéon-Sorbonne
+    institution: Université Paris Dauphine
     icon: ""
-    date_start: 2019-09-01
-    date_end: 2022-05-31
-    summary: |
-      - Thesis: The Impect of Climate Change on Migration Flows
+    date_start: 2010
+    date_end: 2011
 
 work:
   - position: Teaching Assistant
