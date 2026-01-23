@@ -16,14 +16,5 @@ sections:
     design:
       date_format: 'January 2006'
       is_education_first: true
-  - block: resume-skills
-    content:
-      title: Coding skills
-      username: admin
-    design:
-      show_skill_percentage: true
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+  
 ---
