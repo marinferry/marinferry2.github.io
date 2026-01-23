@@ -5,16 +5,16 @@ type: page
 ## Work in Progress
 
 - **[Foreign Aid and Power Play: Political Cycles in World Bank's Procurement Allocation](https://www.aiddata.org/publications/foreign-aid-and-power-play-political-cycles-in-world-banks-procurement-allocation)**  
-  with Antoine Boucher (AMSE) and Lisa Chauvet (Paris 1, CES) – Submitted
+  with Antoine Boucher and Lisa Chauvet – Submitted
 
 - **Out of Sight, Out of Mind? Spatial Divide and Tax Attitudes in Sub-Saharan Africa**  
-  with Lisa Chauvet (Paris 1, CES), Siyavash Eslami (IRD, DIAL), Laure Pasquier-Doumer (IRD, DIAL) – Submitted
+  with Lisa Chauvet, Siyavash Eslami, Laure Pasquier-Doumer – Submitted
 
 - **From Debt Rest to Growth Onset? Sovereign Debt Restructuring and Firm Performance in Developing Countries**  
-  with Luc Jacolin (Banque de France) and Quentin Dufresne (Banque de France)
+  with Luc Jacolin and Quentin Dufresne
 
 - **Giving Birth in Times of Austerity: Fiscal Consolidation and Infant Mortality in Sub-Saharan Africa**  
-  with Hélène Ehrhart (AFD) and Lisa Chauvet (Paris 1, CES)
+  with Hélène Ehrhart and Lisa Chauvet
 
 ## Peer-reviewed publications
 
