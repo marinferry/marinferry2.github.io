@@ -57,13 +57,13 @@ education:
   - area: MSc - Public Policies and Development
     institution: Paris School of Economics
     icon: ""
-    date_start: 2011
-    date_end: 2012
+    date_start: 2011-09-01
+    date_end: 2012-07-01
   - area: BSc - Economics
     institution: Université Paris Dauphine
     icon: ""
-    date_start: 2010
-    date_end: 2011
+    date_start: 2010-09-01
+    date_end: 2011-07-01
 
 work:
   - position: Teaching Assistant
