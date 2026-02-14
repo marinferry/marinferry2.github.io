@@ -57,8 +57,8 @@ type: page
 ## Paris School of Economics (PSE)
 *External Lecturer*  
 
-- **Macroeconomic Policies** (2012 - 2017) – Julia Schmidt and Christian Thimann  
-- **Economic Growth** (2012 - 2017) – Sean Dougherty  
+- **Macroeconomic Policies** (2012 - 2017) – TA for Julia Schmidt and Christian Thimann  
+- **Economic Growth** (2012 - 2017) – TA for Sean Dougherty  
 
 ## Research Supervision
 
