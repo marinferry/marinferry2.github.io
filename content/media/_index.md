@@ -33,12 +33,12 @@ type: page
 
 ## Media interviews
 - **[Crise des dettes et souveraineté](https://podcast.ausha.co/l-internationale/crise-des-dettes-et-souverainete)**
- *L'internationale (December 2025)* Fondation Jean-Jaurès
+  *L'internationale (December 2025)* Fondation Jean-Jaurès
  (20 minutes)
 
 - **[Annulation de la dette des pays pauvres: le dilemme ethique et économique](https://www.rcf.fr/articles/economie-et-societe/annulation-de-la-dette-des-pays-pauvres-le-dilemme-ethique-et-realites)**
- *RCF (May 2025)*
+  *RCF (May 2025)*
  (55 minutes)
 
  - **[Le sommet à Paris pour un pacte financier mondial se termine sans grande révolution](https://www.rts.ch/info/monde/14126277-le-sommet-a-paris-pour-un-pacte-financier-mondial-se-termine-sans-grande-revolution.html)**
-  *RTS (June 2023)*
+   *RTS (June 2023)*
