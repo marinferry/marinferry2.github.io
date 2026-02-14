@@ -80,7 +80,7 @@ type: page
 
 ---
 
-## Other Publications / Media Coverage
+## Other Publications
 
 - **Le surendettement nouveau et les pays africains "frontière" face au mur de la dette**  
   *Document de Travail DIAL n°2024-03* (in French)  
@@ -89,26 +89,6 @@ type: page
 - **L'efficacité de l'aide: quelles évolutions de la littérature depuis deux décennies?**  
   *FERDI Document de travail P329*, Juin 2023 - (in French)  
   with Lisa Chauvet (Paris 1, CES)
-
-- **La soutenabilité des dettes en Afrique: état des lieux et enjeux futurs**  
-  *MacroDev*, Mai 2021, N°34, AFD - (in French)  
-  with Benoît Jonveaux (AFD) and Maxime Terrieux (AFD)
-
-- **The Debt Distress of African States: a sense of Déjà Vu**  
-  *Dialogue, N°61, DIAL* (2021) - (in French)  
-  with Marc Raffinot (LeDA, DIAL)
-
-- **Le financement du développement à l'épreuve du Covid 19**  
-  *L'Economie Politique n°90 (Alternatives économiques)* (2021) - (in French)  
-  with Marc Raffinot (LeDA, DIAL) and Babacar Sene (UCAD)
-
-- **Dette des Pays en Développement: La Covid-19 change la donne**  
-  *The Conversation*, Septembre 2020 (2020) - (in French)  
-  with Marc Raffinot (LeDA, DIAL) and Babacar Sene (UCAD)
-
-- **La dette des Etats d'Afrique subsaharienne à l'épreuve du Covid-19**  
-  *The Conversation*, April 2020 (2020) - (in French)  
-  with Marc Raffinot (LeDA, DIAL) and Babacar Sene (UCAD)
 
 - **Développement économique et social - Aide publique au développement**  
   *Encyclopédie Universalis* (2014) - (in French)  
