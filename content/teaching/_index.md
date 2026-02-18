@@ -1,8 +1,6 @@
 ---
-title: ' '
-date: 2023-10-24
+title: "Teaching"
 type: page
-classes: page-teaching
 ---
 
 ## Université Gustave Eiffel (UGE)
