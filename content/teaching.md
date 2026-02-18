@@ -1,7 +1,8 @@
 ---
-title: 'Teaching Materials'
+title: ''
 date: 2023-10-24
 type: page
+toc: false
 ---
 
 ## Université Gustave Eiffel (UGE)
