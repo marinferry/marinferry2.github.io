@@ -1,8 +1,8 @@
-<div class="teaching-page">
 ---
 title: ''
 type: page
-class: "page-teaching"
+layout: default
+class: teaching-page
 ---
 
 ## Université Gustave Eiffel (UGE)
@@ -70,4 +70,3 @@ class: "page-teaching"
 - William Koscher, 2026 - Université Gustave Eiffel
 
 
-</div>
