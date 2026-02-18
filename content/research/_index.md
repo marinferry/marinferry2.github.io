@@ -30,74 +30,87 @@ type: page
   
 
 - **[Does debt relief irresistibly attract banks as honey attracts bees? Evidence from low-income countries' debt relief programs](https://www.sciencedirect.com/science/article/abs/pii/S0144818821000028)**  
-  *International Review of Law and Economics*, vol. 66, 105978 (2021)  
-  with Marc Raffinot and Baptiste Venet
+  with Marc Raffinot and Baptiste Venet<br>
+  International Review of Law and Economics, vol. 66, 105978 (2021)  
+  
 
 - **[Taxation, infrastructure, and firm performance in developing countries](https://link.springer.com/article/10.1007/s11127-020-00788-4)**  
-  *Public Choice*, vol. 187(3), pp. 455–480 (2021)  
-  with Lisa Chauvet
+  with Lisa Chauvet<br>
+  Public Choice, vol. 187(3), pp. 455–480 (2021)  
+  
 
 - **[Volatility widens inequality. Could aid and remittances help?](https://link.springer.com/article/10.1007/s10290-018-0331-7)**  
-  *Review of World Economics*, vol. 155, pp. 71–104 (2019)  
-  with Lisa Chauvet, Sylviane Guillaumont Jeannenet, Patrick Guillaumont, Jules Sampawende-Tapsoba, Laurent Wagner
+  with Lisa Chauvet, Sylviane Guillaumont Jeannenet, Patrick Guillaumont, Jules Sampawende-Tapsoba, Laurent Wagner<br>
+  Review of World Economics, vol. 155, pp. 71–104 (2019)  
+  
 
 - **[Curse or blessing? Has the impact of debt relief lived up to expectations? A review of the effects of the multilateral debt relief initiatives for low-income countries](https://www.tandfonline.com/doi/abs/10.1080/00220388.2018.1499895?journalCode=fjds20)**  
-  *Journal of Development Studies*, vol. 55(9), pp. 1867–1891 (2019)  
-  with Marc Raffinot
+  with Marc Raffinot<br>
+  Journal of Development Studies, vol. 55(9), pp. 1867–1891 (2019)  
+  
 
-- **[The carrot and the stick approach to debt relief: overcoming moral hazard](https://academic.oup.com/jae/article-abstract/28/3/252/5219189?login=false)**  
-  *Journal of African Economies*, vol. 28(3), pp. 252–276 (2019)
+- **[The carrot and the stick approach to debt relief: overcoming moral hazard](https://academic.oup.com/jae/article-abstract/28/3/252/5219189?login=false)** 
+  Journal of African Economies, vol. 28(3), pp. 252–276 (2019)
 
 - **[Africa: out of debt into fiscal space? Dynamic fiscal impact of the debt relief initiatives on African heavily indebted poor countries](https://www.sciencedirect.com/science/article/abs/pii/S2110701715000293)**  
-  *International Economics*, vol. 144, pp. 29–52 (2015)  
-  with Danny Cassimon, Marc Raffinot, Björn Van Campenhout  
+  with Danny Cassimon, Marc Raffinot, Björn Van Campenhout<br>
+  International Economics, vol. 144, pp. 29–52 (2015)  
+   
 
 ---
 
 ## Publications in French Peer-Reviewed Journals
 
 - **Quel bilan tirer des initiatives d'annulation de la dette des pays pauvres très endettés?**  
-  *Revue d’Économie Financière*, vol. 141, pp. 225–239 (2021)  
+  Revue d’Économie Financière, vol. 141, pp. 225–239 (2021)  
 
 - **Réductions de dette, aléa moral et ré-endettement des pays à faible revenu**  
-  *Techniques Financières et Développement* (2016) - (in French)  
-  with Marc Raffinot (LeDA, DIAL)
+  with Marc Raffinot<br>
+  Techniques Financières et Développement (2016) - (in French)  
+  
 
 ---
 
 ## Book and book chapters
 
-- **Emerging powers, governance and development**  
+- **Emerging powers, governance and development** 
+  with Haley J. Swedlund<br> 
   in *Handbook on Governance and Development*, edited by Wil Hout and Jane Hutchison. Edward Elgar Publishing, 2022  
-  with Haley J. Swedlund
+  
 
 - **La montée des émissions obligataires internationales des pays africains à faible revenu: une surprise rationnelle?**  
+  with Marc Raffinot and Gregory Donnat<br>
   in *Finance, Banque, Microfinance: où va la richesse créée?* Chicot Eboué (eds.), 1ère édition 2021, Larcier, pp. 327–350 (in French)  
-  with Marc Raffinot and Gregory Donnat
+  
 
-- **La dette des pays en développement**  
+- **La dette des pays en développement** 
+  with Marc Raffinot<br> 
   *La Découverte, Repères n° 136*, Juillet 2019 - (in French)  
-  with Marc Raffinot
+  
 
 ---
 
 ## Other Publications
 
-- **Le surendettement nouveau et les pays africains "frontière" face au mur de la dette**  
+- **Le surendettement nouveau et les pays africains "frontière" face au mur de la dette**
+  with Marc Raffinot and Babacar Sene<br>
   *Document de Travail DIAL n°2024-03* (in French)  
-  with Marc Raffinot (LeDA, DIAL) and Babacar Sene (UCAD)
+  
 
-- **L'efficacité de l'aide: quelles évolutions de la littérature depuis deux décennies?**  
+- **L'efficacité de l'aide: quelles évolutions de la littérature depuis deux décennies?**
+  with Lisa Chauvet<br> 
   *FERDI Document de travail P329*, Juin 2023 - (in French)  
-  with Lisa Chauvet (Paris 1, CES)
+  
 
-- **Développement économique et social - Aide publique au développement**  
+- **Développement économique et social - Aide publique au développement** 
+  with Lisa Chauvet<br>  
   *Encyclopédie Universalis* (2014) - (in French)  
-  with Lisa Chauvet (Paris 1, CES)
+ 
 
-- **The Impact of the Debt Relief Initiatives**  
+- **The Impact of the Debt Relief Initiatives**
+  with Marc Raffinot<br>
   *Dialogue, N°37, DIAL* (2013) - (in French)  
-  with Marc Raffinot (LeDA, DIAL)
+  
 
 ---
 
