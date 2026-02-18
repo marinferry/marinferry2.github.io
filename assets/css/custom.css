@@ -1,94 +1,20 @@
-/* =====================================================
-   Research page – compact academic typography
-   ===================================================== */
-
-.page-research {
-  text-align: left;
+/* Research page */
+.page-body .prose {
   font-size: 0.95rem;
   line-height: 1.5;
 }
 
-/* =====================================================
-   Override Tailwind Typography (THE KEY PART)
-   ===================================================== */
-
-/* Remove narrow prose width */
-.max-w-prose {
-  max-width: 1100px !important;
-}
-
-/* Enlarge article column */
-.prose {
-  max-width: 1100px !important;
-}
-
-/* Titles */
-.prose h1 {
-  font-size: 1.6rem !important;
-}
-
-.prose h2 {
-  font-size: 1.1rem !important;
-  font-weight: 600;
-  margin-top: 2rem;
-  margin-bottom: 0.8rem;
-}
-
-/* Publications list */
-.prose ul {
-  padding-left: 1.2rem;
-}
-
-.prose li {
-  font-size: 0.95rem;
-  line-height: 1.55;
-  margin-bottom: 1rem;
-}
-
-.prose li strong {
-  font-size: 1rem;
-  font-weight: 600;
-}
-
-.prose li em {
-  font-size: 0.9rem;
-}
-
-/* Extra spacing between section title and first publication */
-.prose h2 + ul {
-  margin-top: 1.8rem;
-}
-
-/* =====================================================
-   Teaching page – strong academic hierarchy
-   ===================================================== */
-
-/* Institution (##) */
-.section-teaching .prose h2 {
+/* Teaching page */
+.page-body .prose h2 {
   font-size: 1.45rem !important;
   font-weight: 650;
   margin-top: 2.2rem;
   margin-bottom: 1.2rem;
 }
 
-/* Position line (*Assistant Professor*) */
-.section-teaching .prose p em {
+.page-body .prose p em {
   font-size: 1.05rem !important;
   font-style: italic;
   display: block;
   margin-bottom: 0.8rem;
-}
-
-/* Course titles (first-level bullets) */
-.section-teaching .prose > ul > li {
-  font-size: 1rem !important;
-  font-weight: 550;
-  margin-bottom: 0.4rem !important;
-}
-
-/* Details (nested bullets if any) */
-.section-teaching .prose ul ul li {
-  font-size: 0.88rem !important;
-  font-weight: 400;
-  margin-bottom: 0.25rem !important;
 }
