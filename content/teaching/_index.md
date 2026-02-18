@@ -4,6 +4,7 @@ type: page
 layout: default
 class: teaching-page
 ---
+<div class="teaching-page">
 
 ## Université Gustave Eiffel (UGE)
 *Assistant Professor (full-time)*  
@@ -69,4 +70,4 @@ class: teaching-page
 - Andrea Rouchon, 2025 - Université Gustave Eiffel
 - William Koscher, 2026 - Université Gustave Eiffel
 
-
+</div>
