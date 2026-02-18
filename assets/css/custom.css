@@ -5,24 +5,15 @@
 }
 
 /* Teaching page */
-
-/* Expand the parent container to allow wider text */
-.page-body > * {
-  max-width: none !important;   /* remove parent width limits */
-  width: 100% !important;       /* let it fill available space */
-  padding-left: 1rem;           /* small padding on sides */
+.page-body .prose {
+  max-width: 200ch;       /* wider text zone */
+  width: 100%;           /* responsive */
+  padding-left: 1rem;    /* small padding for edges */
   padding-right: 1rem;
-  margin-left: auto;            /* center content */
+  margin-left: auto;     /* center the container */
   margin-right: auto;
 }
 
-/* Wider text zone for teaching page */
-.page-body .prose {
-  max-width: 150ch;             /* ideal line length */
-  width: 100%;
-}
-
-/* Headings on teaching page */
 .page-body .prose h2 {
   font-size: 1.45rem !important;
   font-weight: 650;
@@ -30,7 +21,6 @@
   margin-bottom: 1.2rem;
 }
 
-/* Italics on teaching page */
 .page-body .prose p em {
   font-size: 1.05rem !important;
   font-style: italic;
