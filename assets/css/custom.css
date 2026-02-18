@@ -64,39 +64,23 @@
    ===================================================== */
 
 /* Section titles (##) */
-.page-teaching .prose h2 {
+.section-teaching .prose h2 {
   font-size: 1.25rem !important;
   font-weight: 600;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
-/* First-level list (the *) */
-.page-teaching .prose > ul > li {
-  font-size: 1rem;
+/* First-level list */
+.section-teaching .prose > ul > li {
+  font-size: 1rem !important;
   font-weight: 500;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.4rem !important;
 }
 
-/* Second-level list (the - under *) */
-.page-teaching .prose ul ul li {
-  font-size: 0.9rem;
-  font-weight: 400;
-  margin-bottom: 0.25rem;
-}
-
-/* =====================================================
-   Teaching page – compact hierarchy
-   ===================================================== */
-
-.section-teaching .prose h2 {
-  font-size: 1.3rem !important;
-  margin-top: 1.8rem;
-  margin-bottom: 0.6rem;
-}
-
-.section-teaching .prose li {
+/* Nested list */
+.section-teaching .prose ul ul li {
   font-size: 0.9rem !important;
-  line-height: 1.4 !important;
-  margin-bottom: 0.3rem !important;
+  font-weight: 400;
+  margin-bottom: 0.25rem !important;
 }
