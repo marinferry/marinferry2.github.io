@@ -21,12 +21,13 @@ type: page
 ## Peer-reviewed publications
 
 - **[Mitigating climate vulnerability: the crop diversification effect](https://www.sciencedirect.com/science/article/pii/S0921800925000515)**  
-  *Ecological Economics*, vol. 233 (2025)  
   with Jeanne de Montalembert
+  Ecological Economics, vol. 233 (2025)  
 
 - **[Less debt, more schooling? Evidence from cross-country micro data](https://www.sciencedirect.com/science/article/abs/pii/S0147596721000445?via%3Dihub)**  
-  *Journal of Comparative Economics*, vol. 50(1), pp. 153–173 (2022)  
   with Marine De Talancé and Miguel Niño-Zarazúa
+  Journal of Comparative Economics, vol. 50(1), pp. 153–173 (2022)  
+  
 
 - **[Does debt relief irresistibly attract banks as honey attracts bees? Evidence from low-income countries' debt relief programs](https://www.sciencedirect.com/science/article/abs/pii/S0144818821000028)**  
   *International Review of Law and Economics*, vol. 66, 105978 (2021)  
