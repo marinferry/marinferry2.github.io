@@ -1,6 +1,7 @@
 ---
 title: ''
 type: page
+class: "page-teaching"
 ---
 
 ## Université Gustave Eiffel (UGE)
