@@ -6,7 +6,7 @@
 
 /* Teaching page */
 .page-body .prose {
-  max-width: 90ch;       /* wider text zone */
+  max-width: 200ch;       /* wider text zone */
   width: 100%;           /* responsive */
   padding-left: 1rem;    /* small padding for edges */
   padding-right: 1rem;
