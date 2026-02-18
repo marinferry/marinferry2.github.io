@@ -5,28 +5,28 @@
 }
 
 /* ---------------- Teaching page styling (wider text zone) ---------------- */
-body.teaching-page .page-body {
-  max-width: none;           /* remove parent width limits */
-  width: 100%;               /* allow full width */
+.teaching-page .page-body {
+  max-width: 100%;           /* allow full width */
+  width: 100%;
   padding-left: 1rem;
   padding-right: 1rem;
   margin-left: auto;         /* keep container centered */
   margin-right: auto;
 }
 
-body.teaching-page .page-body .prose {
+.teaching-page .page-body .prose {
   max-width: 150ch;          /* ideal line length */
   width: 100%;
 }
 
-body.teaching-page .page-body .prose h2 {
+.teaching-page .page-body .prose h2 {
   font-size: 1.45rem !important;
   font-weight: 650;
   margin-top: 2.2rem;
   margin-bottom: 1.2rem;
 }
 
-body.teaching-page .page-body .prose p em {
+.teaching-page .page-body .prose p em {
   font-size: 1.05rem !important;
   font-style: italic;
   display: block;
