@@ -49,7 +49,7 @@ type: page
   Journal of Development Studies, vol. 55(9), pp. 1867–1891 (2019)  
   
 
-- **[The carrot and the stick approach to debt relief: overcoming moral hazard](https://academic.oup.com/jae/article-abstract/28/3/252/5219189?login=false)** 
+- **[The carrot and the stick approach to debt relief: overcoming moral hazard](https://academic.oup.com/jae/article-abstract/28/3/252/5219189?login=false)**<br>
   Journal of African Economies, vol. 28(3), pp. 252–276 (2019)
 
 - **[Africa: out of debt into fiscal space? Dynamic fiscal impact of the debt relief initiatives on African heavily indebted poor countries](https://www.sciencedirect.com/science/article/abs/pii/S2110701715000293)**  
@@ -73,7 +73,7 @@ type: page
 
 ## Book and book chapters
 
-- **Emerging powers, governance and development** 
+- **Emerging powers, governance and development**<br> 
   with Haley J. Swedlund<br> 
   in *Handbook on Governance and Development*, edited by Wil Hout and Jane Hutchison. Edward Elgar Publishing, 2022  
   

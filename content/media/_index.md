@@ -5,31 +5,36 @@ type: page
 
 ## Press articles
 - **[Le financement du développement à l'épreuve du Covid 19](https://shs.cairn.info/revue-l-economie-politique-2021-2-page-93)**<br>
-  *L'Economie Politique n°90 (Alternatives économiques)* (2021) - (in French)<br>
-  with Marc Raffinot (LeDA, DIAL) and Babacar Sene (UCAD)<br>
+  with Marc Raffinot and Babacar Sene<br>
+  *L'Economie Politique n°90 (Alternatives économiques)* (2021) - (in French)
+
 
 - **[Dette des Pays en Développement: La Covid-19 change la donne](https://theconversation.com/dette-des-pays-en-developpement-la-covid-19-change-la-donne-145844)**<br>
-  *The Conversation*, Septembre 2020 (2020) - (in French)<br>
-  with Marc Raffinot (LeDA, DIAL) and Babacar Sene (UCAD)<br>
+  with Marc Raffinot and Babacar Sene<br>
+  *The Conversation*, Septembre 2020 (2020) - (in French)
+ 
 
 - **[La dette des Etats d'Afrique subsaharienne à l'épreuve du Covid-19](https://theconversation.com/la-dette-des-etats-dafrique-subsaharienne-a-lepreuve-du-covid-19-136762)**<br>
-  *The Conversation*, April 2020 (2020) - (in French)<br>
-  with Marc Raffinot (LeDA, DIAL) and Babacar Sene (UCAD)<br>
+  with Marc Raffinot and Babacar Sene<br>
+  *The Conversation*, April 2020 (2020) - (in French)
+
 
 ## Policy reports and analysis
 - **[L'aide publique au développement: à la recherche de durabilité et d'efficacité dans un contexte de crises multiples](https://www.iris-france.org/wp-content/uploads/2026/02/ObsActionHuma_2026_AidePubliqueDev_Entretien_FR.pdf)**<br>
   *Entretien* pour l'IRIS, February 2026 - (in French)<br>
 
 - **[Why are developing countries heavily indebted, again?](https://findevlab.org/why-are-developing-countries-heavily-indebted-again/)**<br>
-  *Financing for Development Lab* - Working Paper (2025) - with Ishac Diwan<br>
+   with Ishac Diwan<br>
+  *Financing for Development Lab* - Working Paper (2025) 
 
 - **[La soutenabilité des dettes en Afrique: état des lieux et enjeux futurs](https://www.afd.fr/sites/default/files/2021-05-01-21-28/soutenabilite-dettes-afrique.pdf)**<br>
+  with Benoît Jonveaux and Maxime Terrieux<br>
   *MacroDev*, May 2021, N°34, AFD - (in French)<br>
-  with Benoît Jonveaux (AFD) and Maxime Terrieux (AFD)<br>
 
 - **The Debt Distress of African States: a sense of Déjà Vu**<br>
+  with Marc Raffinot<br>
   *Dialogue, N°61, DIAL* (2021) - (in French)<br>
-  with Marc Raffinot (LeDA, DIAL)<br>
+ 
 
 ## Media interviews
 - **[Crise des dettes et souveraineté](https://podcast.ausha.co/l-internationale/crise-des-dettes-et-souverainete)**<br>
