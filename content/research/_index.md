@@ -21,11 +21,11 @@ type: page
 ## Peer-reviewed publications
 
 - **[Mitigating climate vulnerability: the crop diversification effect](https://www.sciencedirect.com/science/article/pii/S0921800925000515)**  
-  with Jeanne de Montalembert
+  with Jeanne de Montalembert<br>
   Ecological Economics, vol. 233 (2025)  
 
 - **[Less debt, more schooling? Evidence from cross-country micro data](https://www.sciencedirect.com/science/article/abs/pii/S0147596721000445?via%3Dihub)**  
-  with Marine De Talancé and Miguel Niño-Zarazúa
+  with Marine De Talancé and Miguel Niño-Zarazúa<br>
   Journal of Comparative Economics, vol. 50(1), pp. 153–173 (2022)  
   
 
