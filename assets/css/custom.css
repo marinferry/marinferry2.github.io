@@ -2,6 +2,14 @@
 /* ----------- Global Page Width (All Pages) ----------- */
 /* ===================================================== */
 
+/* ===================================================== */
+/* -------- Remove Internal Text Width Limit ----------- */
+/* ===================================================== */
+
+.page-body > * {
+  max-width: none !important;
+}
+
 .page-body {
   max-width: 1400px;     /* adjust if you want wider */
   width: 92%;
