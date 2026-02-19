@@ -2,7 +2,6 @@
 title: ''
 type: page
 layout: default
-class: teaching-page
 ---
 <div class="teaching-page">
 
