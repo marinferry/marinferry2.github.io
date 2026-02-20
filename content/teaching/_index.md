@@ -43,7 +43,7 @@ layout: default
 
 - **Public Debt in the South** – MSc. Risques et Développement aux Suds (2023 - Current)  
 
-## University of Kent – Brussels School of International Studies (BSIS)
+## University of Kent – Brussels School of International Studies
 *External Lecturer*  
 
 - **Development Economics** – MSc. International Development (2019 - 2023)  
