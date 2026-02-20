@@ -1,52 +1,64 @@
 /* ===================================================== */
-/* ----------- Global Page Width (All Pages) ----------- */
+/* =============== GLOBAL LAYOUT CONTROL =============== */
 /* ===================================================== */
 
-/* ===================================================== */
-/* -------- Remove Internal Text Width Limit ----------- */
-/* ===================================================== */
-
-.page-body > * {
+/* Remove internal Tailwind width caps (max-w-*) */
+.page-body [class*="max-w-"] {
   max-width: none !important;
 }
 
+/* Set elegant academic content width */
 .page-body {
-  max-width: 1400px;     /* adjust if you want wider */
-  width: 92%;
+  max-width: 1150px !important;   /* ideal academic width */
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
 }
 
 
 /* ===================================================== */
-/* -------- Research page / general prose styling ------ */
+/* =============== GLOBAL TYPOGRAPHY =================== */
 /* ===================================================== */
 
 .page-body {
-  font-size: 0.95rem;
-  line-height: 1.5;
+  font-size: 0.98rem;      /* slightly more readable */
+  line-height: 1.65;       /* improve vertical rhythm */
 }
 
 
-/* ===================================================== */
-/* --------------- Teaching Page Styling --------------- */
-/* ===================================================== */
-
-/* Keep the wrapper in case you want future control */
-.teaching-page {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-/* Teaching section headers */
-.teaching-page h2 {
-  font-size: 1.45rem;
+/* Improve section spacing */
+.page-body h2 {
+  margin-top: 2.4rem;
+  margin-bottom: 1.2rem;
   font-weight: 650;
-  margin-top: 2.2rem;
+}
+
+.page-body ul {
+  margin-top: 0.6rem;
   margin-bottom: 1.2rem;
 }
 
-/* Styling for italic position titles */
+.page-body li {
+  margin-bottom: 0.5rem;
+}
+
+
+/* ===================================================== */
+/* ================= TEACHING PAGE ===================== */
+/* ===================================================== */
+
+/* Optional wrapper control (safe to keep) */
+.teaching-page {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+/* Teaching headers slightly emphasized */
+.teaching-page h2 {
+  font-size: 1.4rem;
+}
+
+/* Position titles styling */
 .teaching-page p em {
   font-size: 1.05rem;
   font-style: italic;
