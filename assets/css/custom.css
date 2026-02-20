@@ -22,9 +22,8 @@
 
 .page-body {
   font-size: 0.98rem;      /* slightly more readable */
-  line-height: 1.65;       /* improve vertical rhythm */
+  line-height: 1.65;       /* comfortable global reading */
 }
-
 
 /* Improve section spacing */
 .page-body h2 {
@@ -47,21 +46,40 @@
 /* ================= TEACHING PAGE ===================== */
 /* ===================================================== */
 
-/* Optional wrapper control (safe to keep) */
+/* Wrapper control */
 .teaching-page {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
+
+  /* Slightly tighter vertical rhythm for CV-style layout */
+  line-height: 1.45;
 }
 
-/* Teaching headers slightly emphasized */
+/* Teaching headers slightly emphasized but tighter */
 .teaching-page h2 {
   font-size: 1.4rem;
+  margin-top: 1.8rem;      /* tighter than global */
+  margin-bottom: 0.8rem;
 }
 
-/* Position titles styling */
+/* Reduce list spacing specifically for teaching */
+.teaching-page ul {
+  margin-top: 0.3rem;
+  margin-bottom: 0.8rem;
+}
+
+.teaching-page li {
+  margin-bottom: 0.25rem;
+}
+
+/* Position titles styling (compact) */
+.teaching-page p {
+  margin-bottom: 0.4rem;
+}
+
 .teaching-page p em {
   font-size: 1.05rem;
   font-style: italic;
   display: block;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.4rem;
 }
