@@ -188,45 +188,35 @@
 
 /* Slightly smaller and tighter typography */
 .project-page {
-  font-size: 0.95rem;
-  line-height: 1.6;
+  font-size: 0.9rem;
+  line-height: 1.5;
 }
 
 /* Intro paragraph spacing */
 .project-page > p:first-of-type {
-  margin-bottom: 1.8rem;
+  margin-bottom: 1.6rem;
 }
 
 /* Project titles (H2) */
 .project-page h2 {
-  font-size: 1.5rem;        /* harmonized with Research */
-  font-weight: 650;
-  margin-top: 2.4rem;
-  margin-bottom: 0.9rem;
-}
-
-/* Reduce spacing between metadata lines */
-.project-page p {
-  margin-bottom: 0.6rem;
-}
-
-/* Compact metadata block */
-.project-page p strong {
+  font-size: 1.3rem;        /* harmonized with Research */
   font-weight: 600;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
 }
 
-/* Remove excessive spacing between consecutive metadata lines */
+/* Metadata compact */
+.project-page p {
+  margin-bottom: 0.5rem;
+}
+
+/* Tighten metadata lines */
 .project-page p + p {
-  margin-top: -0.25rem;
+  margin-top: -0.2rem;
 }
 
-/* Improve spacing before project description */
-.project-page p + hr {
-  margin-top: 2rem;
-}
-
-/* Subtle horizontal rule */
+/* Horizontal rule */
 .project-page hr {
-  margin: 2rem 0;
-  opacity: 0.25;
+  margin: 1.8rem 0;
+  opacity: 0.2;
 }
