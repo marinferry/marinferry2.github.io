@@ -56,10 +56,16 @@
 }
 
 /* Teaching headers slightly emphasized but tighter */
+/* Teaching headers spacing */
 .teaching-page h2 {
   font-size: 1.4rem;
-  margin-top: 1.8rem;      /* tighter than global */
+  margin-top: 2.8rem;   /* larger separation between universities */
   margin-bottom: 0.8rem;
+}
+
+/* But remove extra space before the FIRST university */
+.teaching-page h2:first-of-type {
+  margin-top: 1.2rem;
 }
 
 /* Reduce list spacing specifically for teaching */
