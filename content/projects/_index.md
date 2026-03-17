@@ -4,7 +4,7 @@ type: page
 ---
 <div class="project-page">
 
-I have the privilege of participating in research projects that are particularly enriching, both because of the questions they address, the scientific teams with whom I collaborate, and the field locations where the work is conducted. These experiences contribute significantly to my research agenda and allow me to engage with diverse institutional and policy environments.
+I have the privilege of participating in research projects that are particularly enriching, both because of the questions they address, the scientific teams with whom I collaborate, and the field locations where the work is conducted.
 
 ## FISCal behavior, AId and Decentralization in Uganda (FISCAID)
 
