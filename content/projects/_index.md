@@ -16,14 +16,18 @@ FISCAID aims to provide new empirical insights into the ability of aid to fulfil
 
 ---
 
-## Project 2 Title
+## The Makay observatory
 
-**Funding institution (if applicable)**  
-**Role:** Principal Investigator / Co-Investigator / Researcher  
-**Period:** 2022–2025  
+**Establishment of a system for socio-economic and environmental knowledge, monitoring, and evaluation of the New Protected Area (NPA) of Makay, Madagascar – Socio-economic component**  
+**Role:** Researcher  
+**Period:** 2019–2025  
 
-Short description of the project.  
-Describe the objectives, the empirical setting, the collaborators, and the expected contribution. Again, aim for clarity and conciseness.
+This research program aims at defining a methodological device dedicated to the implemation of a follow up of knwoledge, monitoring and socio economic and environmental assessment of a protected area méthodologiques pour la
+mise en place d’un dispositif de connaissance, suivi et évaluation socio-économique et environnemental. Le
+dispositif se compose de trois bras articulés, combinant sciences sociales et sciences de la nature et de la terre,
+aussi bien quantitatifs que qualitatifs : un dispositif quantitatif d’enquêtes socio-économiques et
+environnementales auprès des populations du Makay ; un dispositif de suivi écologique ; un dispositif qualitatif
+de type socio-anthropologique
 
 ---
 
