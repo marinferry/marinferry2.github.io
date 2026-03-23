@@ -10,7 +10,7 @@ type: page
 - **[Foreign Aid and Power Play: Political Cycles in World Bank's Procurement Allocation](https://www.aiddata.org/publications/foreign-aid-and-power-play-political-cycles-in-world-banks-procurement-allocation)**  
   with Antoine Boucher and Lisa Chauvet – R&R at World Development
 
-- **Out of Sight, Out of Mind? Spatial Divide and Tax Attitudes in Sub-Saharan Africa**  
+- **Out of Sight, Out of Mind? Spatial Divide and Tax Attitudes in Africa**  
   with Lisa Chauvet, Siyavash Eslami, Laure Pasquier-Doumer – Submitted
 
 - **From Debt Rest to Growth Onset? Sovereign Debt Restructuring and Firm Performance in Developing Countries**  
