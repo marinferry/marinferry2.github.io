@@ -20,12 +20,11 @@ FISCAID aims to provide new empirical insights into the ability of aid to fulfil
 **Role:** Researcher  
 **Period:** 2019–2025  
 
-This research program aims at defining a methodological device dedicated to the implemation of a follow up of knwoledge, monitoring and socio economic and environmental assessment of a protected area méthodologiques pour la
-mise en place d’un dispositif de connaissance, suivi et évaluation socio-économique et environnemental. Le
-dispositif se compose de trois bras articulés, combinant sciences sociales et sciences de la nature et de la terre,
-aussi bien quantitatifs que qualitatifs : un dispositif quantitatif d’enquêtes socio-économiques et
-environnementales auprès des populations du Makay ; un dispositif de suivi écologique ; un dispositif qualitatif
-de type socio-anthropologique
+This research program aims to develop a methodological framework dedicated to the implementation of knowledge tracking, monitoring, and socio-economic and environmental assessment of a protected area. It proposes an application of this framework in the context of the Makay, a mountain range in southwestern Madagascar characterized by its unique topography and rare biodiversity, which was granted temporary protected area status in 2017.
+
+The framework mobilizes a multidisciplinary team of researchers who contribute to both its design and implementation. It is structured around three interconnected components, combining social sciences with natural and earth sciences, and integrating both quantitative and qualitative approaches. These include a quantitative system for socio-economic surveys of populations living in the Makay, an ecological monitoring system, and a qualitative socio-anthropological approach.
+
+Two waves of panel surveys, conducted in 2021 and 2024, have already been carried out among populations living near the Makay massif, as well as among individuals in more distant parts of the region. Initial results and analyses on living conditions, perceptions of insecurity and institutions, and representations of the environment and nature are available on the following website: 
 
 ---
 
