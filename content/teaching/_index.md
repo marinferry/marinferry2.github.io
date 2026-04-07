@@ -7,8 +7,8 @@ layout: default
 
 ## Université Gustave Eiffel
 *Assistant Professor (full-time)*  
-*Head of second-year Bachelor* 
-*Co-Head of DEIPM MAster* 
+- Head of second-year Bachelor  
+- Co-Head of DEIPM Master  
 
 - **Local Development Policies** – MSc. DEIPM Management (2021 - Current) 
 - **Aid Effectiveness** – MSc. DEIPM (2025 - Current)  
