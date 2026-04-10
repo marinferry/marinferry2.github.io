@@ -15,12 +15,9 @@
   margin-right: auto;
 }
 
-.page-header .order-0 {
-  height: auto !important;
-}
-
 .page-header .order-0 img {
-  height: 55px !important;
+  height: 155px !important;
+  width: auto;
 }
 
 /* ===================================================== */
