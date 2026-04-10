@@ -15,13 +15,14 @@
   margin-right: auto;
 }
 
+.navbar .navbar-brand img {
+  height: 55px !important;
+}
 
 /* ===================================================== */
 /* =============== GLOBAL TYPOGRAPHY =================== */
 /* ===================================================== */
-.navbar-brand img {
-  max-height: 50px !important;
-}
+
 
 .page-body {
   font-size: 0.98rem;      /* slightly more readable */
