@@ -19,6 +19,9 @@
 /* ===================================================== */
 /* =============== GLOBAL TYPOGRAPHY =================== */
 /* ===================================================== */
+.navbar-brand img {
+  max-height: 50px !important;
+}
 
 .page-body {
   font-size: 0.98rem;      /* slightly more readable */
